@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This project is development like a practice
+This project is beign developed for practice purposes
 
 ### Notas
 
