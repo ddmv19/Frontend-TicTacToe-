@@ -4,19 +4,19 @@ This project is beign developed for practice purposes
 
 ### Notas
 
-Remember rebuil the node modules of this project using:
+Remember to rebuild the node modules for this project using:
 
 ```
 pnpm install
 ```
 
-For run the project in local using:
+To run the project locally, use:
 
 ```
 pnpm start
 ```
 
-For generate the dist directory using:
+To generate the dist directory, can use:
 ```
 pnpm run build
 ```
